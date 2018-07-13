@@ -17,6 +17,8 @@ A curated list of image processing datasets in regions of brightening, color enh
    * Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs (CVPR2011), Vladimir Bychkovsky, Sylvain Paris and Eric Chan, Fredo Durand.
  * LRAICE-Dataset [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Yan_A_Learning-to-Rank_Approach_2014_CVPR_paper.pdf) [[WEB]]() 
    * A Learning-to-Rank Approach for Image Color Enhancement (CVPR2014), Jianzhou Yan, Stephen Lin, Sing Bing Kang, Xiaoou Tang.
+ * DPED dataset [[PDF]](https://arxiv.org/abs/1704.02470) [[WEB]](http://people.ee.ethz.ch/~ihnatova/)
+   * DSLR-quality photos on mobile devices with deep convolutional networks (ICCV2017), A. Ignatov, N. Kobyshev, K. Vanhoey, R. Timofte, L. Van Gool.
  * The 500px Dataset [[PDF]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/Exposure.pdf) 
    * Exposure: A White-Box Photo Post-Processing Framework (TOG2018), Yuanming Hu, Hao He, Chenxi Xu, Baoyuan Wang, Stephen Lin.
    
