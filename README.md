@@ -13,12 +13,12 @@ A curated list of image processing datasets in regions of brightening, color enh
    * Getting to Know Low-light Images with The Exclusively Dark Dataset (Submitted to CVIU), Yuen Peng Loh, Chee Seng Chan.
    
 #### Color-Enhancement
- * MIT FiveK dataset [[WEB]] (https://data.csail.mit.edu/graphics/fivek/)
+ * MIT FiveK dataset [[WEB]](https://data.csail.mit.edu/graphics/fivek/)
    * Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs (CVPR2011), Vladimir Bychkovsky, Sylvain Paris and Eric Chan, Fredo Durand.
  * LRAICE-Dataset [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Yan_A_Learning-to-Rank_Approach_2014_CVPR_paper.pdf) [[WEB]]() 
-   A Learning-to-Rank Approach for Image Color Enhancement (CVPR2014), Jianzhou Yan, Stephen Lin, Sing Bing Kang, Xiaoou Tang.
+   * A Learning-to-Rank Approach for Image Color Enhancement (CVPR2014), Jianzhou Yan, Stephen Lin, Sing Bing Kang, Xiaoou Tang.
  * The 500px Dataset [[PDF]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/Exposure.pdf) 
-   Exposure: A White-Box Photo Post-Processing Framework (TOG2018), Yuanming Hu, Hao He, Chenxi Xu, Baoyuan Wang, Stephen Lin.
+   * Exposure: A White-Box Photo Post-Processing Framework (TOG2018), Yuanming Hu, Hao He, Chenxi Xu, Baoyuan Wang, Stephen Lin.
    
 
 
