@@ -1,6 +1,6 @@
 # Image Processing Datasets
 
-A curated list of image processing datasets in regions of brightening, color enhancement and inpainting
+A curated list of image processing datasets in regions of brightening, HDR, color enhancement and inpainting
 
 #### Brightening
  * VIP-LowLight Dataset [[WEB]](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset)
@@ -22,5 +22,6 @@ A curated list of image processing datasets in regions of brightening, color enh
  * The 500px Dataset [[PDF]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/Exposure.pdf) 
    * Exposure: A White-Box Photo Post-Processing Framework (TOG2018), Yuanming Hu, Hao He, Chenxi Xu, Baoyuan Wang, Stephen Lin.
    
-
-
+#### Image-Inpainting
+ * Image Inpainting [[WEB]](http://chalearnlap.cvc.uab.es/dataset/30/description/)
+   * 2018 Chalearn Looking at People Satellite Workshop ECCV
