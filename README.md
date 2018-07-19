@@ -25,3 +25,9 @@ A curated list of image processing datasets in regions of brightening, HDR, colo
 #### Image-Inpainting
  * Image Inpainting [[WEB]](http://chalearnlap.cvc.uab.es/dataset/30/description/)
    * 2018 Chalearn Looking at People Satellite Workshop ECCV
+
+#### Image Denoising
+ * Smartphone Image Denoising Dataset [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Abdelhamed_A_High-Quality_Denoising_CVPR_2018_paper.pdf)
+   * A High-Quality Denoising Dataset for Smartphone Cameras (CVPR2018), Abdelrahman Abdelhamed, Stephen Lin, Michael S. Brown.
+   
+
